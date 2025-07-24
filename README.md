@@ -6,14 +6,14 @@
 ### 🧠 About Me
 
 - 🎓 I'm currently studying Computer Science at university.
-- 💡 I’m passionate about writing clean code and solving logical problems.
-- 🔭 I’m learning **Python** and **Java**, and building my way into full-stack development.
-- ♟️ Chess isn’t just a hobby — it’s how I sharpen my mind and stay focused.
+- 💡 Passionate about writing clean code and solving logical problems.
+- 🔭 Learning **Python**, **Java**, and exploring full-stack development.
+- ♟️ Chess keeps my brain sharp — strategy fuels my creativity.
 - 📫 Reach me: **chesssaad996@gmail.com**
 
 ---
 
-### 💻 Tech Toolbox
+### 💻 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -21,29 +21,40 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saadzehouani&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadzehouani&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzehouani&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🎯 Fun Fact
+### 🏆 GitHub Trophies
 
-> "Coding is like playing chess — it's all about strategy, foresight, and never giving up."
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadzehouani&theme=onedark&column=7&no-frame=true" />
+</p>
+
+---
+
+> “Coding is like chess: strategic, creative, and endlessly challenging.”
 
 ---
 
 <p align="center">
-  🚀 Let's build, break, and rebuild — that's how great developers are born.
+  🚀 Let's build the future — one line of code at a time.
 </p>
 
 
